@@ -4,12 +4,12 @@
 %include	/usr/lib/rpm/macros.php
 Summary:	%{pearname} - XML utility class
 Name:		php-pear-XML_Util2
-Version:	0.1.0
+Version:	0.2.0
 Release:	1
 License:	BSD License
 Group:		Development/Languages/PHP
 Source0:	http://pear.php.net/get/%{pearname}-%{version}.tgz
-# Source0-md5:	0a3e5b53661f69553bd181b6411f5a77
+# Source0-md5:	911743de3076f2a077fa2617e22d5f1d
 URL:		http://pear.php.net/package/XML_Util2/
 BuildRequires:	php-packagexml2cl
 BuildRequires:	php-pear-PEAR
