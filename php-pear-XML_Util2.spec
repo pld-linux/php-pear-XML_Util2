@@ -1,7 +1,6 @@
 # $Revision: 1.31 $, $Date: 2011/04/10 20:45:35 $
 %define		status		alpha
 %define		pearname	XML_Util2
-%include	/usr/lib/rpm/macros.php
 Summary:	%{pearname} - XML utility class
 Name:		php-pear-XML_Util2
 Version:	0.2.0
